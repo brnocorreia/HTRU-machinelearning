@@ -1,2 +1,2 @@
-# cardio-machinelearning
-Machine Learning Algorhytm to predict Cardio Diseases using a public dataset
+# Machine Learning
+Machine Learning Algorithm projects for studies purposes
